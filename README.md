@@ -2,10 +2,10 @@
 This repository, part of Udacity "Machine Learning Engineer" Nanodegree program contains my "Capstone Project".  
 I choose to work on sales forecasting, with the Walmart dataset available in the data folder and on Kaggle with this link :  
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting  
-The dataset provide historical sales data for 45 Walmart stores located in different regions.   
+The dataset provides historical sales data for 45 Walmart stores located in different regions.   
 Each store contains many departments, and participants must project the sales for each department in each store.
 
-The proposal.pdf document provide more information about this project:
+The proposal.pdf document provides more information about this project:
 - domain background
 - problem statement
 - benchmark model
