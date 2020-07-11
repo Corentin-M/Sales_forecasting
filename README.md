@@ -38,3 +38,15 @@ All the code used for this project was made using the following Notebooks:
     - train the model with data from 2 stores adding one more feature : DeepAR_2stores_train_2features.ipynb
     - train the model with all data : DeepAR_Final_Model.ipynb
 
+Python libraries used in this project:
+- pandas : create and work data as table and time series
+- numpy : manipulate arrays and for numerical computing
+- matplotlib.pyplot : display graphics and scatter plots
+- seaborn : display correlation heatmap
+- datetime : convert data to date format
+- sklearn.ensemble (RandomForestRegressor) : library with lots of algorithms for machine learning
+- os : use operating system dependent functionnality
+- json : convert Python dictionnaries or lists into JSON strings
+- boto3 : work with or get info about AWS ressources
+- sagemaker : AWS machine learning library
+- pickle : to serialize and save the outputs of the deployed models
