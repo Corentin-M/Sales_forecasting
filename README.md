@@ -29,4 +29,12 @@ The Project_Report.pdf contains the major development stages of the project:
     - Reflection
     - Improvement
     
+All the code used for this project was made using the following Notebooks:
+- Load and explore data : Data_Exploration.ipynb
+- Create some benchmarks models, metrics, and Random Forest Model : Benchmark_and_RandomForest_Model.ipynb
+- Test robustness of the RF Model : RF_Model-Robustness.ipynb
+- Differents steps with AWS DeepAR. The 3 Notebooks are nearly the same with different parameter adjustments
+    - train the model with data from 2 stores : DeepAR_2stores_train.ipynb
+    - train the model with data from 2 stores adding one more feature : DeepAR_2stores_train_2features.ipynb
+    - train the model with all data : DeepAR_Final_Model.ipynb
 
